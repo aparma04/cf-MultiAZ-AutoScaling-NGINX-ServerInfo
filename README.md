@@ -28,7 +28,7 @@ ___________________________
     https://console.aws.amazon.com/console/home
 - **Step 2:** Navigate to CloudFormation Service.
    ![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/1_Select_CloudFormation.png)
-- **Step 3:**Click on Create new Stack button.
+- **Step 3:** Click on Create new Stack button.
 ![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/2_Create_New_Stack.png)
 - **Step 4:** You can choose downloaded cloudformation template or you can specify this S3 url : https://s3-us-west-2.amazonaws.com/cf-images-multiaz/cf-MultiAZ-AutoScaling-Nginx
 ![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/3_Select_template.png)
