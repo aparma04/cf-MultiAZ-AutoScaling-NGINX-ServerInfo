@@ -48,4 +48,4 @@ ___________________________
 
 ***Be updated, Stay upgraded.***
 
-Thankyou!!!
+Thank you!!!
