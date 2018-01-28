@@ -19,7 +19,9 @@ ___________________________
 # Walkthrough
 
 **Prerequisites: AWS Account with Default VPC\* and Key Pair\*\***
+
 *If default VPC is not there please contact the AWS support to retrieve the Default VPC.
+
 **To create key-pair please follow this tutorial: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#having-ec2-create-your-key-pair
 
 - **Step 1:** Login to AWS account
