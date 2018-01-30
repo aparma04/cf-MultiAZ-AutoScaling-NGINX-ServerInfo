@@ -44,7 +44,7 @@ ___________________________
 - **Step 9:** Go to the outputs tab to select the ELB URL.
 ![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/8_stack_complete.png)
 - **Step 10:** It will redirect to one of the instance and shows different server details on refresh.
-![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/9_ServerDetails.png)
+![alt text](https://s3-us-west-2.amazonaws.com/cf-images-multiaz/9_ServerDetail.png)
 
 ***Be updated, Stay upgraded.***
 
